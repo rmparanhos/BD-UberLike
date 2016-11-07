@@ -1,0 +1,27 @@
+insert categoria1
+select pra mostrar a inserçao
+insert categoria1
+select pra mostrar q nao adicionou
+item a) verificado
+insert carro com categoria1
+update categoria1 com categoria 2
+select categorias pra mostrar o update
+select carro pra mostrar o cascade
+item b1) verificado
+delete categoria2 de categoria
+mostre o erro
+select categoria pra mostrar q nao foi deletado
+select carros pra mostrar o restrict
+item b2) verificado
+insira um ccredito
+insira um usuario
+insira um motorista
+insira uma agenda
+insira uma agendamotorista
+select agenda motorista pra mostrar cpf
+update usuario trocando o cpf
+select agenda motorista pra mostrar o set null
+item b3) verificado
+insira um carro com uma categoria q nao existe
+mostre o erro
+select carro para mostrar q nao foi adicionado
