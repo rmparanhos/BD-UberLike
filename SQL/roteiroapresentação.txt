@@ -25,3 +25,17 @@ item b3) verificado
 insira um carro com uma categoria q nao existe
 mostre o erro
 select carro para mostrar q nao foi adicionado
+
+
+INSERT INTO tabela
+VALUES (valor1,valor2,...);
+
+SELECT coluna1,coluna2... ou *
+FROM tablea;
+
+UPDATE tabela
+SET coluna1 = valor1, coluna2 = valor2....
+WHERE coluna = valor;
+
+DELETE FROM tabela;
+WHERE coluna = valor;
